@@ -1,0 +1,14 @@
+{
+  "name": "Momentum PRO — Personal OS",
+  "short_name": "Momentum PRO",
+  "description": "A personal dashboard for daily habits, health logs, focused study and career tracking.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
